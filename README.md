@@ -29,6 +29,7 @@ Main things I want to add in the near future listed in no particular order.
 
 - [ ] Add demo video.
 - [ ] Add blog post.
+- [ ] Refactor code to use classes + error handling.
 - [ ] Add instructions to the readme + requirements and so on.
 - [ ] Add speech thresholding / question extraction before S2T.
 - [ ] Local whisper (whisper.cpp).
