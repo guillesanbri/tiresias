@@ -6,9 +6,11 @@ TiresIAs is an open-source AI-driven assistant that leverages a vision-language 
 
 Devlog / blog post / whatever you wanna call it about the project [here (TBA)]().
 
-### Demo video
+### Demo video (Sound on!)
 
-![Video placeholder](https://images.placeholders.dev/?width=720&height=256&text=Video%20placeholder)
+https://github.com/guillesanbri/tiresias/assets/16866516/5e23e1a1-fc8c-4eaf-aa2d-fd38187d7e02
+
+
 
 ---
 
