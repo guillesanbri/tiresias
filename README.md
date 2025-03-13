@@ -4,7 +4,7 @@ TiresIAs is an open-source AI-driven assistant that leverages a vision-language 
 
 > TL;DR: I’ve stiched a few APIs together to ask GPT4 questions about whatever happens to be in front of you, potentially useful for visually impaired people.
 
-Devlog / blog post / whatever you wanna call it about the project [here (TBA)]().
+Devlog / blog post / whatever you wanna call it about the project [here](https://guillesanbri.com/Tiresias/).
 
 ### Demo video (Sound on!)
 
@@ -30,7 +30,7 @@ Soon™️
 Main things I want to add in the near future listed in no particular order.
 
 - [x] ~Add demo video.~
-- [ ] Add blog post.
+- [x] Add blog post.
 - [ ] Refactor code to use classes + error handling.
 - [ ] Add instructions to the readme + requirements and so on.
 - [ ] Add speech thresholding / question extraction before S2T.
